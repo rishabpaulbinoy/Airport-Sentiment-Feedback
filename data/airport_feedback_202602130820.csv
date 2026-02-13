@@ -1,0 +1,103 @@
+"id","name","email","phone","rating","feedback_areas","comments","created_at","sentiment_label","sentiment_score","is_outlier"
+12,Liam Smith,liam.s@example.com,"555-0201",5,"{Security,Staff}",Fastest security check I have ever had. Staff was very helpful!,2026-02-10 09:31:57.493,Positive,0.25,false
+13,Noah Johnson,noah.j@test.com,"555-0202",2,{Cleanliness},Terminal 1 restrooms were not well-maintained today.,2026-02-10 09:31:57.493,Neutral,0.0,false
+14,Oliver Brown,oliver.b@mail.org,"555-0203",4,"{Food,WiFi}","Good food options, but the WiFi dropped a few times near the gate.",2026-02-10 09:31:57.493,Positive,0.19999999999999998,false
+15,Emma Williams,emma.w@service.net,"555-0204",1,{Staff},Very rude desk agent. Unacceptable service levels.,2026-02-10 09:31:57.493,Negative,-0.39,false
+16,Charlotte Jones,charlotte.j@web.com,"555-0205",5,"{Cleanliness,Signage}",The airport is spotless and the signs made it easy to find my gate.,2026-02-10 09:31:57.493,Positive,0.43333333333333335,false
+17,Amelia Garcia,amelia.g@travel.co,"555-0206",3,{Food},"Food was okay, but a bit overpriced for the quality.",2026-02-10 09:31:57.493,Positive,0.5,false
+18,Sophia Miller,sophia.m@example.com,"555-0207",5,{Staff},A staff member went out of their way to help me find my lost bag. Amazing!,2026-02-10 09:31:57.493,Positive,0.7500000000000001,false
+19,James Davis,james.d@test.com,"555-0208",2,{Security},The wait time at security was over an hour. Very poorly managed.,2026-02-10 09:31:57.493,Negative,-0.52,false
+20,Benjamin Rodriguez,ben.r@mail.org,"555-0209",4,"{WiFi,Staff}",Reliable internet for my work and friendly people everywhere.,2026-02-10 09:31:57.493,Positive,0.375,false
+21,Lucas Martinez,lucas.m@service.net,"555-0210",1,"{Cleanliness,Food}",Disappointed. Tables were dirty and my meal was cold.,2026-02-10 09:31:57.493,Negative,-0.65,false
+23,Evelyn Lopez,evelyn.l@travel.co,"555-0212",3,{WiFi},"WiFi works fine for basic browsing, but not for streaming.",2026-02-10 09:31:57.493,Positive,0.20833333333333334,false
+112,gewgwgge,"6ehwgsaggww@gmail.com","4363637373",2,"{Check-in & Immigration,Service Quality & Staff}",fshshsshd,2026-02-11 12:49:26.232,Neutral,0.0,false
+113,gregrJBJBJ,rishab.22bce7948@vitapstudent.ac.in,"7255477357",4,"{Check-in & Immigration,Service Quality & Staff,Safety & Security}",Very good.,2026-02-12 12:32:38.652,,,false
+24,Harper Gonzalez,harper.g@example.com,"555-0213",2,{Signage},Got lost twice. The signs for Terminal 3 are very confusing.,2026-02-10 09:31:57.493,Negative,-0.39,false
+25,Alexander Wilson,alex.w@test.com,"555-0214",4,"{Staff,Food}",Friendly staff at the lounge and great coffee.,2026-02-10 09:31:57.493,Positive,0.5875,false
+26,Elijah Anderson,elijah.a@mail.org,"555-0215",1,"{WiFi,Staff}",No internet and no one to help me with my boarding pass.,2026-02-10 09:31:57.493,Neutral,0.0,false
+27,Isabella Thomas,isabella.t@service.net,"555-0216",5,{Cleanliness},The whole terminal felt very fresh and well-kept.,2026-02-10 09:31:57.493,Positive,0.29500000000000004,false
+22,Mia Hernandez,mia.h@web.com,"555-0211",5,{Security},In and out of security in 5 minutes. Brilliant!,2026-02-10 09:31:57.493,Positive,1.0,false
+48,Luna Ortega,luna.o@test.net,"555-0312",3,"{WiFi,Cleanliness}",Average. WiFi is spotty but the terminal is relatively tidy.,2026-02-10 09:32:54.038,Positive,0.22499999999999998,false
+49,Isaac Moses,i.moses@service.org,"555-0313",4,"{Food,Signage}",Good variety of duty-free shops and the signs are clear.,2026-02-10 09:32:54.038,Positive,0.39999999999999997,false
+50,Stella Roman,stella.r@web.com,"555-0314",2,{Staff},Nobody was at the information desk for over ten minutes.,2026-02-10 09:32:54.038,Neutral,0.0,false
+51,Owen Glover,owen.g@travel.co,"555-0315",5,"{Security,WiFi}",Fastest transit ever. Internet speed is good enough for video calls.,2026-02-10 09:32:54.038,Positive,0.35,false
+52,Hazel Yang,hazel.y@example.com,"555-0316",1,"{Cleanliness,Signage}",The floors were sticky and I couldnt find the baggage claim signs.,2026-02-10 09:32:54.038,Neutral,0.0,false
+53,Leo Pruitt,leo.p@test.net,"555-0317",4,{Staff},Gate agents handled the delay very professionally.,2026-02-10 09:32:54.038,Positive,0.13,false
+54,Violet Mayo,v.mayo@service.org,"555-0318",3,{Food},"Typical overpriced airport coffee. Not bad, just expensive.",2026-02-10 09:32:54.038,Negative,-0.10555555555555558,false
+55,Julian Case,j.case@web.com,"555-0319",5,{Cleanliness},I saw the cleaning crew active the whole time. Very well maintained.,2026-02-10 09:32:54.038,Neutral,0.0888888888888889,false
+56,Nora Hess,nora.h@travel.co,"555-0320",2,"{WiFi,Security}","Security was okay, but the WiFi login page is broken.",2026-02-10 09:32:54.038,Neutral,0.04999999999999999,false
+59,Aaron Peck,a.peck@service.org,"555-0323",3,{Signage},Finding the parking shuttle was a bit of a challenge.,2026-02-10 09:32:54.038,Neutral,0.0,false
+60,Elena Wolf,elena.w@web.com,"555-0324",4,"{Cleanliness,Food}",Nice atmosphere in the food hall and very clean tables.,2026-02-10 09:32:54.038,Positive,0.5383333333333333,false
+61,Christopher Ali,c.ali@travel.co,"555-0325",1,{WiFi},Why is the WiFi capped at 30 minutes? Very annoying for long layovers.,2026-02-10 09:32:54.038,Negative,-0.525,false
+30,Logan Jackson,logan.j@example.com,"555-0219",2,{WiFi},The free WiFi is basically unusable during peak hours.,2026-02-10 09:31:57.493,Positive,0.4,false
+57,Levi Stout,levi.s@example.com,"555-0321",1,"{Food,Staff}",The restaurant was filthy and the manager didn't care.,2026-02-10 09:32:54.038,Negative,-0.8,false
+58,Bella Roth,bella.r@test.net,"555-0322",5,"{Staff,Security}",Excellent service at the fast-track lane.,2026-02-10 09:32:54.038,Positive,1.0,false
+62,Grace Miller,grace.m@example.com,"555-0401",5,"{Food,Cleanliness}",The organic juice bar in Terminal 3 is fantastic. Very clean seating.,2026-02-10 09:33:43.414,Positive,0.43833333333333335,false
+63,Henry Wilson,h.wilson@test.net,"555-0402",2,{Signage},The walk from the parking lot to check-in is poorly marked.,2026-02-10 09:33:43.414,Neutral,0.1,false
+64,Chloe Davis,chloe.d@service.org,"555-0403",4,"{Staff,WiFi}",Baggage claim staff were very efficient. WiFi was stable enough for work.,2026-02-10 09:33:43.414,Neutral,0.1,false
+65,Sebastian King,seb.k@web.com,"555-0404",1,"{Cleanliness,Food}",Found trash on the tables at the food court. Very disappointing.,2026-02-10 09:33:43.414,Negative,-0.78,false
+66,Maya Wright,maya.w@travel.co,"555-0405",5,{Security},The staff at the premium security lane were extremely professional.,2026-02-10 09:33:43.414,Neutral,0.1,false
+67,Jack Lopez,j.lopez@example.com,"555-0406",3,{WiFi},"Internet is fine for messaging, but it kept timing out on my laptop.",2026-02-10 09:33:43.414,Positive,0.4166666666666667,false
+68,Lily Scott,lily.s@test.net,"555-0407",2,{Staff},Long queues at the information desk and only one person working.,2026-02-10 09:33:43.414,Neutral,-0.025,false
+69,Samuel Green,s.green@service.org,"555-0408",4,"{Cleanliness,Signage}",Very easy to find the taxi stand and the area was well-swept.,2026-02-10 09:33:43.414,Positive,0.5633333333333334,false
+70,Emily Adams,e.adams@web.com,"555-0409",5,{Food},Best airport sushi I have ever had. Quick service too!,2026-02-10 09:33:43.414,Positive,0.7083333333333333,false
+71,Daniel Baker,d.baker@travel.co,"555-0410",1,"{WiFi,Signage}",Could not connect to the net and the gate signs were misleading.,2026-02-10 09:33:43.414,Neutral,0.0,false
+72,Avery Hill,avery.h@example.com,"555-0411",4,"{Security,Staff}",Security was busy but moved fast. Staff kept the line organized.,2026-02-10 09:33:43.414,Positive,0.15000000000000002,false
+73,Carter Ross,c.ross@test.net,"555-0412",2,{Cleanliness},Soap dispensers in the mens room were all empty.,2026-02-10 09:33:43.414,Neutral,-0.1,false
+74,Madison Ward,m.ward@service.org,"555-0413",5,{Staff},The gate agent helped me rebook my flight in minutes. Lifesaver!,2026-02-10 09:33:43.414,Neutral,0.0,false
+75,Wyatt Cook,w.cook@web.com,"555-0414",3,"{Food,WiFi}",Average experience. Coffee was hot but the WiFi was cold.,2026-02-10 09:33:43.414,Negative,-0.16666666666666666,false
+87,Elena Petrova,e.petrova@world.com,"555-0501",5,"{Security,Staff}",The facial recognition gates worked perfectly. Extremely impressed.,2026-02-10 09:34:26.237,Positive,0.5,false
+88,Jin Soo Park,jin.park@korea.kr,"555-0502",2,{Food},Very limited vegetarian options at the food court during late hours.,2026-02-10 09:34:26.237,Negative,-0.19642857142857142,false
+89,Mateo Silva,m.silva@brazil.br,"555-0503",4,"{WiFi,Cleanliness}",WiFi connected instantly. The terminal lounge was very well-kept.,2026-02-10 09:34:26.237,Neutral,0.1,false
+80,Victoria Price,v.price@web.com,"555-0419",5,{Cleanliness},The kids play area was surprisingly clean and safe.,2026-02-10 09:33:43.414,Positive,0.43333333333333335,false
+81,Anthony Reed,a.reed@travel.co,"555-0420",1,"{Staff,Signage}",The shuttle bus driver was rude and the stop was hard to find.,2026-02-10 09:33:43.414,Negative,-0.29583333333333334,false
+82,Stella Wood,s.wood@example.com,"555-0421",4,{Security},"Standard security. No issues, fairly polite officers.",2026-02-10 09:33:43.414,Positive,0.35,false
+83,Dominic Kelly,d.kelly@test.net,"555-0422",3,{Cleanliness},Floors were a bit sticky near the drink machines.,2026-02-10 09:33:43.414,Neutral,0.1,false
+84,Leah Sanders,l.sanders@service.org,"555-0423",5,"{Staff,Food}",Great service at the lounge. The breakfast buffet was fresh.,2026-02-10 09:33:43.414,Positive,0.55,false
+85,Christopher Ray,c.ray@web.com,"555-0424",2,{WiFi},I have to re-login to the WiFi every 15 minutes. Very frustrating.,2026-02-10 09:33:43.414,Negative,-0.52,false
+86,Audrey Bennett,a.bennett@travel.co,"555-0425",5,{Signage},The digital maps throughout the terminal are a fantastic touch.,2026-02-10 09:33:43.414,Positive,0.2,false
+32,Daniel Lee,daniel.l@mail.org,"555-0221",1,{Cleanliness},Spilled drinks on the floor were not cleaned up for hours.,2026-02-10 09:31:57.493,Neutral,0.0,false
+33,Lucas Perez,lucas.p@service.net,"555-0222",4,{Security},"Process was smooth, though the bins were a bit sticky.",2026-02-10 09:31:57.493,Positive,0.4,false
+34,Emily Thompson,emily.t@web.com,"555-0223",3,"{Food,WiFi}","Standard experience. Internet is okay, food is okay.",2026-02-10 09:31:57.493,Positive,0.3333333333333333,false
+35,Henry White,henry.w@travel.co,"555-0224",5,{Staff},Very welcoming atmosphere. Feels like a premium airport.,2026-02-10 09:31:57.493,Positive,0.2,false
+36,Sebastian Harris,seb.h@example.com,"555-0225",1,"{Signage,Security}",Worst experience. Security was a mess and I nearly missed my flight.,2026-02-10 09:31:57.493,Negative,-0.35833333333333334,false
+37,William Taylor,will.t@example.com,"555-0301",4,"{Food,Staff}",The burger at the terminal lounge was surprisingly good. Friendly waiter too.,2026-02-10 09:32:54.038,Positive,0.5375,false
+38,Sofia Quinn,sofia.q@test.net,"555-0302",1,{WiFi},WiFi is a joke. I had to use my roaming data just to send an email.,2026-02-10 09:32:54.038,Neutral,0.0,false
+39,Jackson White,j.white@service.org,"555-0303",5,"{Cleanliness,Security}",Spotless floors and the security bins were actually clean. Great job!,2026-02-10 09:32:54.038,Positive,0.6833333333333333,false
+40,Aria Mccarthy,aria.m@web.com,"555-0304",2,"{Signage,Staff}",I got lost looking for the prayer room. The staff I asked seemed annoyed.,2026-02-10 09:32:54.038,Negative,-0.4,false
+41,Lucas Hopper,l.hopper@travel.co,"555-0305",3,"{Food,WiFi}",Standard airport prices. WiFi works okay near the food court.,2026-02-10 09:32:54.038,Positive,0.19999999999999998,false
+42,Layla Vance,layla.v@example.com,"555-0306",5,{Security},The biometric gates are a game changer. So fast!,2026-02-10 09:32:54.038,Neutral,-0.07500000000000001,true
+98,Luca Schmidt,l.schmidt@at.at,"555-0512",3,"{Food,WiFi}",Decent food but the prices are quite high for a quick snack.,2026-02-10 09:34:26.237,Positive,0.21999999999999997,false
+28,Mason Taylor,mason.t@web.com,"555-0217",3,"{Security,Staff}","Staff were fine, but the security line was moving slowly.",2026-02-10 09:31:57.493,Neutral,0.05833333333333332,false
+29,Ethan Moore,ethan.m@travel.co,"555-0218",4,{Food},The new sushi bar is actually quite good for airport food.,2026-02-10 09:31:57.493,Positive,0.27878787878787875,false
+31,Abigail Martin,abigail.m@test.com,"555-0220",5,"{Staff,Signage}",Super easy to navigate and the help desk was wonderful.,2026-02-10 09:31:57.493,Positive,0.5888888888888889,false
+46,Mila Shields,mila.s@travel.co,"555-0310",5,{Signage},Excellent directions from the train station straight to the check-in desk.,2026-02-10 09:32:54.038,Positive,0.6,false
+47,Caleb Duran,caleb.d@example.com,"555-0311",1,"{Security,Staff}",Security officer was power-tripping. Made me unpack my entire carry-on for no reason.,2026-02-10 09:32:54.038,Neutral,0.0,false
+90,Fatima Zahra,f.zahra@uae.ae,"555-0504",1,{Staff},Baggage claim staff were unhelpful when my luggage was delayed.,2026-02-10 09:34:26.237,Neutral,0.0,false
+91,Hans Mueller,h.mueller@de.de,"555-0505",5,"{Signage,Security}",Very efficient German-style organization. Signs were crystal clear.,2026-02-10 09:34:26.237,Positive,0.15,false
+92,Saanvi Iyer,saanvi.i@india.in,"555-0506",3,{Food},Average experience. The spicy chai was good but the line was long.,2026-02-10 09:34:26.237,Positive,0.16666666666666666,false
+93,Yuki Tanaka,yuki.t@japan.jp,"555-0507",5,{Cleanliness},I have never seen a cleaner airport. Truly a 5-star experience.,2026-02-10 09:34:26.237,Neutral,0.0,false
+94,Lars Nielsen,lars.n@denmark.dk,"555-0508",2,"{WiFi,Signage}",WiFi kept dropping and the gate numbers are hard to follow.,2026-02-10 09:34:26.237,Negative,-0.2916666666666667,false
+95,Sofia Rossi,s.rossi@italy.it,"555-0509",4,"{Food,Staff}",Great espresso at the cafe near Gate A4. Friendly barista.,2026-02-10 09:34:26.237,Positive,0.425,false
+96,Ahmed Mansour,a.mansour@egypt.eg,"555-0510",1,{Security},The security queue was chaotic and the staff were shouting.,2026-02-10 09:34:26.237,Neutral,0.0,false
+97,Isabelle Dubois,i.dubois@france.fr,"555-0511",5,{Staff},Very polite assistance at the information desk. Merci!,2026-02-10 09:34:26.237,Positive,0.25,false
+43,Henry Jarvis,h.jarvis@test.net,"555-0307",1,{Cleanliness},Restrooms near Gate B12 were flooding. Absolutely disgusting.,2026-02-10 09:32:54.038,Negative,-0.45,false
+44,Zoey Bowers,zoey.b@service.org,"555-0308",4,{Staff},Very helpful assistance for my elderly mother. Thank you.,2026-02-10 09:32:54.038,Positive,0.2,false
+45,Nathaniel Kent,n.kent@web.com,"555-0309",2,{Food},The only open cafe had a 20-minute wait for a simple sandwich.,2026-02-10 09:32:54.038,Neutral,0.0,false
+76,Addison Bell,a.bell@travel.co,"555-0415",1,{Security},Treated like a criminal at the checkpoint. Horrible attitude.,2026-02-10 09:33:43.414,Negative,-0.7,false
+77,Gabriel Gray,g.gray@example.com,"555-0416",4,"{Signage,Cleanliness}",Terminal 2 is much nicer than Terminal 1. Very clear directions.,2026-02-10 09:33:43.414,Positive,0.165,false
+78,Natalie Brooks,n.brooks@test.net,"555-0417",5,"{Food,Staff}",The Duty Free staff were very knowledgeable about the perfumes.,2026-02-10 09:33:43.414,Positive,0.30000000000000004,false
+79,Julian James,j.james@service.org,"555-0418",2,"{WiFi,Food}",WiFi is slow and the sandwiches at the kiosk were dry.,2026-02-10 09:33:43.414,Negative,-0.18333333333333335,false
+110,Olga Ivanova,o.ivanova@ru.ru,"555-0524",2,"{Signage,Food}",Got lost looking for the pharmacy. Food options are poor.,2026-02-10 09:34:26.237,Negative,-0.4,false
+111,Jean Petit,j.petit@fr.fr,"555-0525",1,{Security},I waited for 45 minutes in a line that barely moved.,2026-02-10 09:34:26.237,Neutral,0.05,true
+109,Ravi Sharma,r.sharma@in.in,"555-0523",5,"{WiFi,Staff}",Excellent WiFi speed. Helped me finish my work during the layover.,2026-02-10 09:34:26.237,Positive,1.0,false
+99,Anika Devi,anika.d@test.com,"555-0513",2,{Cleanliness},The seating area near Gate C5 had crumbs everywhere.,2026-02-10 09:34:26.237,Neutral,0.1,false
+100,Ivan Volkov,i.volkov@ru.ru,"555-0514",4,{Security},Security was strict but professional. No major delays.,2026-02-10 09:34:26.237,Neutral,0.034375,false
+101,Clara Menzies,clara.m@uk.co,"555-0515",5,"{WiFi,Signage}",Fast internet and very easy to find the Heathrow Express.,2026-02-10 09:34:26.237,Positive,0.3816666666666667,false
+102,Zeynep Demir,z.demir@tr.tr,"555-0516",1,{Food},The food was cold and the table was not wiped down.,2026-02-10 09:34:26.237,Negative,-0.37777777777777777,false
+103,Kenji Sato,k.sato@jp.jp,"555-0517",4,"{Staff,Cleanliness}",Very respectful staff and the floors were shiny.,2026-02-10 09:34:26.237,Positive,0.65,false
+104,Maria Gomez,m.gomez@es.es,"555-0518",2,{WiFi},I couldnt get the SMS verification for the WiFi to work.,2026-02-10 09:34:26.237,Neutral,0.0,false
+105,Thomas Wright,t.wright@us.com,"555-0519",5,{Security},TSA Pre-check was a breeze today. Great staffing levels.,2026-02-10 09:34:26.237,Positive,0.8,false
+106,Lin Wang,lin.w@cn.cn,"555-0520",3,"{Food,Signage}",Fine experience. Signs in multiple languages were helpful.,2026-02-10 09:34:26.237,Positive,0.20833333333333334,false
+107,Omer Farooq,o.farooq@pk.pk,"555-0521",1,{Staff},Very rude behavior from the security supervisor.,2026-02-10 09:34:26.237,Negative,-0.39,false
+108,Freja Jensen,f.jensen@dk.dk,"555-0522",4,{Cleanliness},"Generally clean, though some trash cans were overflowing.",2026-02-10 09:34:26.237,Positive,0.3666666666666667,false
